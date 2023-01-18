@@ -1,0 +1,35 @@
+
+
+
+ 
+{
+    
+    "Metrics":[
+        
+        {
+            "title": "DevAPI",
+            "DF":12,
+            "TR": 1.5,
+            "LT":286,
+            "CFR":25,
+            "DT":"unchanged",
+            "D":"0%"
+        },
+        {
+            "title": "YourServiceHere",
+            "DF":0,
+            "TR": 0,
+            "LT":0,
+            "CFR":0,
+            "DT":"unchanged",
+            "D":"0%"
+
+        }
+        
+    ]
+
+}
+    
+ 
+
+  
